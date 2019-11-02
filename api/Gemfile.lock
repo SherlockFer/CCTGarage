@@ -78,7 +78,7 @@ GEM
       mustermann (~> 1.0.0)
     mysql2 (0.4.10)
     netrc (0.11.0)
-    rack (1.6.9)
+    rack (1.6.11)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-cors (1.0.2)
@@ -133,7 +133,7 @@ DEPENDENCIES
   grape-swagger
   jwt
   mysql2 (~> 0.4.4)
-  rack (~> 1.6.0)
+  rack (~> 1.6.11)
   rack-cors
   rack-swagger-ui!
   rack-test

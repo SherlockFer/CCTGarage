@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rack', '~> 1.6.0'
+gem 'rack', '~> 1.6.12'
 gem 'require_all'
 gem 'grape'
 gem 'grape-entity'

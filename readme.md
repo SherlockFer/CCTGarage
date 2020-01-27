@@ -12,11 +12,11 @@ Goal:
 
 Description:
 
-- Ger's Garage's web application  is a client server application in which the client runs in a web browser. Users can access the application from any computer connected to the internet, instead of using an application that has been installed on the user’s computer. Ger's Garage's web application can interact with users, by responding to users using REST API response structure using a specific HTTP method on a specific type of call made to the server.
+- Ger's Garage's web application is a client server application in which the client runs in a web browser and they can book their vehivles for a service. Users can access the application from any computer connected to the internet, instead of using an application that has been installed on the user’s computer. Ger's Garage's web application can interact with users, by responding to users using REST API response structure using a specific HTTP method on a specific type of call made to the server.
 
 Technology used:
 
-- AngularJS, Ruby and (HTML5 Mobile App Framework) Cordova, Git Version control, Google Maps API, Bootstrap.
+- AngularJS, Ruby, Nginx, AWS, Git Version control, Docker, Bootstrap.
 
 </FIN>
 

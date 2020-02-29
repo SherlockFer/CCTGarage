@@ -84,7 +84,7 @@ GEM
     rack-cors (1.0.2)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
-    rake (10.4.2)
+    rake (12.3.3)
     require_all (2.0.0)
     rest-client (2.0.2)
       http-cookie (>= 1.0.2, < 2.0)
@@ -137,7 +137,7 @@ DEPENDENCIES
   rack-cors
   rack-swagger-ui!
   rack-test
-  rake (~> 10.4.2)
+  rake (~> 12.3.3)
   require_all
   rspec
 

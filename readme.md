@@ -1,4 +1,4 @@
-## Guided Technology Project
+## Technology Project
 http://www.moshimoshiaqp.com/
 
 1. Final Project Overview
@@ -21,7 +21,7 @@ Ger's Garage is a small garage where carries out maintenance checks for all kind
 Customers can register on the website and book their vehicle in for a service.
 Admin can manage the bookings. (see details requirement: detailsRequirement file)
 ```
-4. Ger's Darage Web Application Description:
+4. Ger's Garage Web Application Description:
 ```
 Ger's Garage's web application is a client server application in which the client runs in a web browser and they can book their vehicles for a service. Users can access the application from any computer connected to the internet, instead of using an application that has been installed on the user’s computer. Ger's Garage's web application can interact with users, by responding to users using REST API response structure using a specific HTTP method on a specific type of call made to the server.
 ```

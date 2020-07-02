@@ -1,5 +1,6 @@
 ## Technology Project
-http://www.moshimoshiaqp.com/
+URL Login: http://www.moshimoshiaqp.com/
+Swagger API Spec: http://www.moshimoshiaqp.com:3000/swagger
 
 1. Final Project Overview
 2. How to Deploy
@@ -29,15 +30,15 @@ Ger's Garage's web application is a client server application in which the clien
 
 Frontend
 ```
-AngularJS, HTML, Bootstrap, CSS.
+Angular2, Bootstrap4.
 ```
 Backend
 ```
-Ruby grape, Nginx, MariaDB.
+Ruby GrapeAPI, Swagger, Nginx, MariaDB.
 ```
 Tools
 ```
-AWS, Git, Docker, DockerCompose, Portainer, Swagger UI, JWT, Yarn.
+AWS-EC2, Git, Docker, Docker-Compose, Portainer.
 ```
 
 ## HOW TO DEPLOY

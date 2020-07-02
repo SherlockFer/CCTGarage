@@ -2,13 +2,14 @@
 
 URL Login: http://www.moshimoshiaqp.com/
 
-Swagger API Spec: http://www.moshimoshiaqp.com:3000/swagger
+Swagger API Spec: http://www.moshimoshiaqp.com:3000/swagger 
+Token(email: admin@garage.com / password: 123456)
 
 1. Final Project Overview
 2. How to Deploy
 
 
-## Final Project Overview
+## 1. Final Project Overview
 
 1. Project's Name
 ```
@@ -43,7 +44,7 @@ Tools
 AWS-EC2, Git, Docker, Docker-Compose, Portainer.
 ```
 
-## HOW TO DEPLOY
+## 2. HOW TO DEPLOY
 1. Install Docker. In terminal execute code: 
 ```
 brew cask install docker
